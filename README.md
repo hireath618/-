@@ -1,2 +1,1 @@
-# hello-world
-first repository
+# 二手交易平台
